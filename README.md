@@ -1,6 +1,6 @@
 # ғᴏʀᴄᴇ sᴜʙsʀɪʙᴇ ʙᴏᴛ
 
- [Fᴏʀᴄᴇ sᴜʙsʀɪʙᴇ Bᴏᴛ](https://t.me/ForceSubscriber_RoBot)
+ [DSF Fᴏʀᴄᴇ sᴜʙsʀɪʙᴇ Bᴏᴛ](http://t.me/DFS_force_subscriber_bot)
 > ɢɪvᴇ ᴀ sᴛᴀʀ ʙᴇғᴏʀᴇ ᴋᴀᴍɢɪɴɢ  ғᴜᴍᴋᴇʀ
 
 <p align="center"><a href="https://github.com/Noob-mukesh/ForceSubsribeBot"><img src="https://te.legra.ph/file/fe924e2746ad34b7dc76d.jpg" width="2000"></a></p>
@@ -23,7 +23,7 @@
 
 1. Cʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏ
    ```markdown
-   git clone https://github.com/Noob-Mukesh/ForceSubscribeBot
+   git clone https://graph.org/file/1966bb95783f82a36ea55.mp4
    ```
    
 2. Gᴇᴛ ᴀ DATABASE_URL.  Iғ ʏᴏᴜ ᴅᴏɴᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ .ᴛʜᴇɴ ᴅᴇᴘʟᴏʏ ᴜsɪɴɢ ʜᴇʀᴜᴋᴏ ʙᴜᴛᴛᴏɴᴏɴʟʏ ᴏʀ ᴅᴇʟᴇᴛᴇ ᴅᴀᴛᴀʙᴀsᴇ ᴛʜɪɴɢs ᴀs ɪᴛ's ɴᴏᴛ ᴀ ᴄᴏᴍᴘᴜʟsɪᴏɴ.
